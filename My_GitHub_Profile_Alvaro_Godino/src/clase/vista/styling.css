@@ -1,0 +1,9 @@
+.mybutton{
+	-fx-background-color: #008080;
+	-fx-border-color: #008080;
+	-fx-text-fill: white;
+}
+
+.mytitle{
+    -fx-font-family: "HipsterishFontNormal";
+}
